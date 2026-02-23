@@ -1,6 +1,5 @@
-package com.smartclinic.system.repository;
-
-import com.smartclinic.system.entity.Patient;
+package com.project.back_end.repo;
+import com..project.back_end.models.Patient;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 
