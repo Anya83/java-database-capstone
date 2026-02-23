@@ -1,4 +1,6 @@
-package com.smartclinic.system.service;
+package com.project.back_end.services;
+
+
 
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
