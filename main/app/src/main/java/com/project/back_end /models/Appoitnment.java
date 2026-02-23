@@ -1,4 +1,4 @@
-package com.smartclinic.system.entity;
+package com.project.back_end.modules;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Future;
