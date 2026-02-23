@@ -1,4 +1,4 @@
-package com.smartclinic.system.entity;
+package com.project.back_end.models;
 
 import jakarta.persistence.*;
 import java.time.LocalTime;
