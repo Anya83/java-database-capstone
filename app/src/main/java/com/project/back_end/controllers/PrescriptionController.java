@@ -1,4 +1,4 @@
-package com.smartclinic.system.controller;
+package com.project.back_end.controllers;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
